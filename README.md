@@ -3,6 +3,7 @@
 🎓 BCA student at Allahabad University  
 💻 Learning Web Development  
 🌱 Currently learning: HTML, Tailwind CSS, JavaScript
+<br>
 🚀 Goal: Web Development
 
 ### 🛠 Skills
